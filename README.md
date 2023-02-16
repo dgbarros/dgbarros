@@ -1,6 +1,6 @@
 ## Hi! I'm Douglas Barros
 
-- 🔭 Hoje trabalho em cima de alguns projetos proporcionado por meu amigo.
+- 🔭 Hoje trabalho em cima de alguns projetos.
 - 🌱 Estudando HTML5 CSS3 JavaScript 
 <div align="center">
   <a href="https://github.com/dgbarros">
