@@ -9,7 +9,7 @@
 </div>
 
 ##
-  [![My Skills](https://skillicons.dev/icons?i=figma,html,css,js,git,github)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=html,css,js,git,github)](https://skillicons.dev)
 
 ##
  
