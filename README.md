@@ -10,7 +10,7 @@
 
 ##
 
-  [![My Skills](https://skillicons.dev/icons?i=figma,html,css,bootstrap,sass,js,py,php,mysql,laravel,docker,git,github,gitlab,aws)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,sass,js,github)](https://skillicons.dev)
 
 ##
  
