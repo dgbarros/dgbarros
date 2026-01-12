@@ -2,9 +2,7 @@
 
 - 🔭 Today work in the some personal projects
   
- ## Estatísticas 
-  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dgbarros&theme=github) 
-
+![Languages](https://github.com/lowlighter/metrics/blob/master/.github/readme/img/languages.svg)
 
 ##
 
