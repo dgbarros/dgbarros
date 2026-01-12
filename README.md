@@ -1,9 +1,9 @@
 
   ## Hi! I'm Douglas Barros 👋
 
-- 🔭 Currently working on personal projects
-- 🌱 Learning and improving my skills in web development
-- 💡 Interested in front-end, design systems, and clean code
+- Currently working on personal projects
+- Learning and improving my skills in web development
+- Interested in front-end, design systems, and clean code
 
 ##
   ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dgbarros&theme=dark)
