@@ -1,10 +1,13 @@
-## Hi! I'm Douglas Barros
 
-- 🔭 Today work in the some personal projects
-  
-![Languages](https://github.com/lowlighter/metrics/blob/master/.github/readme/img/languages.svg)
+  ## Hi! I'm Douglas Barros 👋
+
+- 🔭 Currently working on personal projects
+- 🌱 Learning and improving my skills in web development
+- 💡 Interested in front-end, design systems, and clean code
 
 ##
+  ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dgbarros&theme=dark)
+
 
   [![My Skills](https://skillicons.dev/icons?i=html,css,cs,bootstrap,sass,js,github)](https://skillicons.dev)
 
