@@ -8,7 +8,7 @@
 ##
   ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dgbarros&theme=dark)
 
-  [![My Skills](https://skillicons.dev/icons?i=html,css,cs,bootstrap,sass,js,github,docker,typescript)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=html,css,cs,bootstrap,sass,js,github,git,postgresql,supabase,docker,typescript)](https://skillicons.dev)
 
 
 ##
